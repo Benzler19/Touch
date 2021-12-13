@@ -1,0 +1,17 @@
+.footer {
+    background: rgb(255, 0, 0);
+    height: 80px;
+    /* justify-content: center;
+    align-items: center; */
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 12px;
+    color: white;
+    
+}
+
+.footer1 { 
+    padding: 9px;
+    
+}
