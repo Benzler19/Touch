@@ -1,5 +1,5 @@
-import React from 'react'
-import '../Styles/Banner'
+import React from 'react';
+import '../Styles/Banner.css';
 import { Carousel } from 'antd';
 import 'antd/dist/antd.css';
 import Img1 from '../img/Img1.jpg';

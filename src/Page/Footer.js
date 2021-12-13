@@ -1,5 +1,4 @@
 import React from 'react'
-import "./Footer.css"
 import { BiWorld } from "react-icons/bi";
 import { BsTwitter } from "react-icons/bs";
 import { IoLocationSharp } from "react-icons/io5";
@@ -24,7 +23,7 @@ function Footer() {
                 <a href="#" style={{marginRight:12}}>FAQ</a>
                 <a href="#" style={{marginRight:12}}>ศูนย์ช่วยเหลือ</a>
                 <a href="#" style={{marginRight:12}}>นโยบายความเป็นส่วนตัว</a>
-                <a href="#" style={{marginRight:12}}>เงื่อนไขข้อตกลงการใช้บริการ </a>
+                <a href="#" style={{marginRight:12}}>เงื่อนไขข้อตกลงการใช้บริการ</a>
             </div>
         </div>
 
